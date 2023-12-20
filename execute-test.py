@@ -20,7 +20,7 @@ prueba_inexact_mateches = inexact_matches(corta, largo, 1)
 prueba_exact_mateches = exact_matches(corta, largo)
 
 print("inexact matches")
-print (prueba_inexact_mateches)
+print(prueba_inexact_mateches)
 
 print("exact matches")
-print (prueba_exact_mateches)
+print(prueba_exact_mateches)
